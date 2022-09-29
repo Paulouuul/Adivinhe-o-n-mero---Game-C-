@@ -1,4 +1,4 @@
-# Adivinhe-o-n-mero---Game-C-
+# Adivinhe-o-número-Game-C-
 Tente adivinhar o número gerado!
 
 Este programa gera um número aleatório. O usuário precisa adivinhar qual número foi gerado. 
